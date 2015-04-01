@@ -5,6 +5,8 @@ $ mkdir tutorial
 $ cd tutorial/
 $ npm init
 
+$ npm install --save express
+$ npm install --save ejs
 
 ## To run the server:
 $ node server.js
